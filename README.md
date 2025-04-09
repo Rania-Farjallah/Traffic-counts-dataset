@@ -25,8 +25,8 @@ The final dataset includes the following transformations:
 
 The traffic data included in this repository is derived from the following publicly available datasets provided by the City of Calgary:
 
-1. [Traffic Volume - Vehicles](https://data.calgary.ca/Transportation-Transit/Traffic-Counts-at-Permanent-stations/vuyp-sbjp/about_data)  
-2. [Traffic Volume - Pedestrians and Cyclists](https://data.calgary.ca/Transportation-Transit/Bike-and-Pedestrian-Counts/pede-tz7g/about_data)
+1. [Traffic Counts at Permanent Stations – Vehicles](https://data.calgary.ca/Transportation-Transit/Traffic-Counts-at-Permanent-stations/vuyp-sbjp)  
+2. [Bike and Pedestrian Counts](https://data.calgary.ca/Transportation-Transit/Bike-and-Pedestrian-Counts/pede-tz7g)
 
 These datasets are made available under the [Open Government Licence – City of Calgary](https://data.calgary.ca/stories/s/Open-Calgary-Terms-of-Use/u45n-7awa).
 
